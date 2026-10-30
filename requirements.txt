@@ -1,0 +1,2 @@
+# ReconSage Lite
+# No external Python dependencies required.
